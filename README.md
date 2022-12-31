@@ -1,7 +1,5 @@
 # IOT_SMART_HOME
 HIT - IOT smart home course by Yury.
-# IOT_SMART_HOME
-HIT - IOT smart home course by Yury.
 ##### Create Virtual Machine:
 python -m venv <virtual-environment-name>
 ##### Dowloand packages from requirements.txt:
